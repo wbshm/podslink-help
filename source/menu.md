@@ -50,6 +50,7 @@
 - [OPPO-Widget addition Guide](/rel/oppo_widget)
 - [Privacy Policy](/privacy)
 - [Terms of Service](/agreement)
+- [Account deletion](/account-deletion)
 - [Update description](/rel/update)
 
 
